@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I´m Morian Wili.
+I am full stack developer.
 
 ## 🚀💻 Technologies & Tools
 
